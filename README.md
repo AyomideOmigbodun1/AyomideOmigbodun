@@ -1,5 +1,5 @@
 # Hello, I'm Ayomide Omigbodun
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ayomide-omigbodun/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ayomide-omigbodun-21a398142/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a passionate and dedicated cybersecurity professional with hands-on experience in security awareness, risk assessment, and network analysis. I am committed to securing digital landscapes and driving impactful security solutions.
